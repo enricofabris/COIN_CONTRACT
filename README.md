@@ -12,10 +12,12 @@
 
 
 ### Get the last bet result and the total statistic of all your bet ###
-![](cd2.JPG)
+
 
 ### If you win your balance will increase. You can withdraw anytime.  ###
- ![](cd3.JPG)
+ - if you win you will get the money won on your balance but they will not be trasferred automatically to your account.
+ - You need to withdraw the amount to your address manually.
+ 
  
 ### If you are the owner of the contract you will see in the dapp some managment buttons ###
  ![](cd3.JPG)
