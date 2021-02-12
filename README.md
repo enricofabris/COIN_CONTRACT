@@ -5,7 +5,7 @@
 
 
 ### Insert the amount you want to bet (IN WEI), bet on HEAD or TAIL, CONFIRM your bet ###
-![](cd1.JPG)
+![](coin_contract1.JPG)
 
 
 - On the top of the page you can see the total statistics of all the bet set on the contract
