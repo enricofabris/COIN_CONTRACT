@@ -5,6 +5,8 @@
 
 
 ### Insert the amount you want to bet (IN WEI), bet on HEAD or TAIL, CONFIRM your bet ###
+
+
 ![](coin_contract1.JPG)
 
 
