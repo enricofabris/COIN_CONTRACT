@@ -13,7 +13,7 @@
 
 ### Get the last bet result and the total statistic of all your bet ###
 ![](cd2.JPG)
-- 
+
 
  
  ### If you win your balance will increase. You can withdraw anytime.  ###
