@@ -17,7 +17,7 @@
 ### If you win your balance will increase. You can withdraw anytime.  ###
  ![](cd3.JPG)
  
-### If you are the owner of the contract you will see in the dapp some managment buttons###
+### If you are the owner of the contract you will see in the dapp some managment buttons ###
  ![](cd3.JPG)
  
  - You can deposit more funds in the contract
