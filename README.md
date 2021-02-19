@@ -20,7 +20,7 @@
  
  
 ### If you are the owner of the contract you will see in the dapp some managment buttons ###
- ![](cd3.JPG)
+ ![](page.JPG)
  
  - You can deposit more funds in the contract
  - You can withdraw funds from the contract
